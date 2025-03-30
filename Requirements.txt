@@ -1,0 +1,17 @@
+Requirements
+
+Ensure you have the following dependencies installed before running the program:
+
+Python Libraries (Install using pip):
+
+pip install sqlite3 langchain-community chromadb ollama
+
+Ollama Installation:
+
+Download and install Ollama from https://ollama.com
+
+Llama 3.2 Model Installation:
+
+Once Ollama is installed, run the following command in your terminal to install the model:
+
+ollama pull llama3.2:latest
