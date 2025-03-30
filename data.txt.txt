@@ -1,0 +1,47 @@
+Hair Type: Straight
+Concern: Oily Scalp
+Routine:
+1. **Cleansing:** Use a gentle, sulfate-free shampoo to cleanse the scalp without over-drying. Shampoo every other day to control oil production.
+2. **Conditioning:** Apply a lightweight, oil-free conditioner to the ends of the hair only, avoiding the scalp to prevent excess oiliness.
+3. **Styling:** Use a dry shampoo between washes to absorb excess oil and add volume. Avoid heavy styling products that can weigh hair down.
+
+Hair Type: Wavy
+Concern: Frizz
+Routine:
+1. **Cleansing:** Opt for a moisturizing shampoo that helps tame frizz without stripping natural oils.
+2. **Conditioning:** Use a hydrating conditioner with ingredients like glycerin or shea butter to lock in moisture.
+3. **Styling:** Apply a leave-in conditioner or anti-frizz serum to damp hair. Let hair air dry or use a diffuser on low heat to enhance natural waves.
+
+Hair Type: Curly
+Concern: Dryness
+Routine:
+1. **Cleansing:** Co-wash with a cleansing conditioner to maintain natural oils, reducing shampoo frequency to once a week.
+2. **Conditioning:** Deep condition weekly with a product rich in natural oils like coconut or argan oil.
+3. **Styling:** Apply a curl-enhancing cream or gel to wet hair, scrunching to define curls. Use a microfiber towel to reduce frizz and let hair air dry.
+
+Hair Type: Coily
+Concern: Breakage
+Routine:
+1. **Cleansing:** Use a sulfate-free, moisturizing shampoo once a week to prevent dryness.
+2. **Conditioning:** Incorporate a protein-rich deep conditioner bi-weekly to strengthen hair strands.
+3. **Styling:** Apply a leave-in conditioner followed by a natural oil, such as jojoba or castor oil, to seal in moisture. Protect hair at night with a satin or silk bonnet.
+
+Scalp Condition: Dandruff
+Recommended Ingredients:
+- **Tea Tree Oil:** Known for its antifungal properties, it helps reduce dandruff and soothe the scalp.
+- **Salicylic Acid:** Assists in exfoliating the scalp, removing dead skin cells, and preventing flake buildup.
+
+Scalp Condition: Sensitive
+Recommended Ingredients:
+- **Aloe Vera:** Soothes irritation and provides gentle hydration to the scalp.
+- **Chamomile Extract:** Calms inflammation and reduces scalp sensitivity.
+
+Hair Goal: Growth
+Recommended Practices:
+- **Scalp Massage:** Perform daily scalp massages to stimulate blood circulation, promoting hair growth.
+- **Balanced Diet:** Incorporate foods rich in vitamins and minerals, such as biotin, vitamin E, and omega-3 fatty acids, to support hair health.
+
+Hair Goal: Thickness
+Recommended Practices:
+- **Protein Treatments:** Use protein-rich hair masks monthly to strengthen hair strands and add volume.
+- **Avoid Heat Styling:** Minimize the use of heat styling tools to prevent hair thinning and breakage.
